@@ -1,0 +1,10 @@
+*.zip
+*.png
+*data*
+*.h5
+v3*
+__pycache__/
+.ipynb_checkpoints/
+sample_ready/
+*_test/
+fashionAI_attributes_train1/

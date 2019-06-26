@@ -1,0 +1,21 @@
+{
+    "tag-lower": {
+        "casual_trouser": "nynnn",
+        "chinos_trouser": "nnnyn",
+        "jeans": "ynnnn",
+        "shorts": "nnynn",
+        "suit_trouser": "nnnny"
+    },
+    "tag-upper": {
+        "hoodie": "nnnnnnnnyn",
+        "long_sleeve_polo_shirt": "nnnynnnnnn",
+        "other_coat": "nnnnnnnynn",
+        "pullover_tops": "nynnnnnnnn",
+        "shirt": "nnnnnynnnn",
+        "short_sleeve_polo_shirt": "nnnnynnnnn",
+        "sleeveless_tops": "nnynnnnnnn",
+        "suit": "nnnnnnnnny",
+        "t_shirt": "nnnnnnynnn",
+        "wool_trench_coat": "ynnnnnnnnn"
+    }
+}
